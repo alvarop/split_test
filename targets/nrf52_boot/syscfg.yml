@@ -1,0 +1,2 @@
+syscfg.vals:
+  MCU_DEBUG_IGNORE_BKPT: 1
